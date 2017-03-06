@@ -11,7 +11,7 @@ public class Entry {
 	private String translation;
 	
 	public Entry(String word, String translation) {
-		this.word = word;
+		
 		this.translation = translation;
 	}
 	
@@ -21,5 +21,9 @@ public class Entry {
 	
 	public String getTranslation() {
 		return translation;
+	}
+
+	public String toString() {
+		return "Text";
 	}
 }
