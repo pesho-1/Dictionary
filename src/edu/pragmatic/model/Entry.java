@@ -24,6 +24,6 @@ public class Entry {
 	}
 
 	public String toString() {
-		return "Text";
+		return "Pesho is the best";
 	}
 }
