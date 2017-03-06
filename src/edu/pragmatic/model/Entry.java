@@ -23,7 +23,4 @@ public class Entry {
 		return translation;
 	}
 
-	public String toString() {
-		return "Gosho is the best";
-	}
 }
